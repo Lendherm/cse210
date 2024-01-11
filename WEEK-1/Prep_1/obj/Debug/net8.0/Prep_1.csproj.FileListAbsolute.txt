@@ -1,0 +1,15 @@
+D:\BYU\cse210-hw\WEEK-1\Prep_1\bin\Debug\net8.0\Prep_1.exe
+D:\BYU\cse210-hw\WEEK-1\Prep_1\bin\Debug\net8.0\Prep_1.deps.json
+D:\BYU\cse210-hw\WEEK-1\Prep_1\bin\Debug\net8.0\Prep_1.runtimeconfig.json
+D:\BYU\cse210-hw\WEEK-1\Prep_1\bin\Debug\net8.0\Prep_1.dll
+D:\BYU\cse210-hw\WEEK-1\Prep_1\bin\Debug\net8.0\Prep_1.pdb
+D:\BYU\cse210-hw\WEEK-1\Prep_1\obj\Debug\net8.0\Prep_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\BYU\cse210-hw\WEEK-1\Prep_1\obj\Debug\net8.0\Prep_1.AssemblyInfoInputs.cache
+D:\BYU\cse210-hw\WEEK-1\Prep_1\obj\Debug\net8.0\Prep_1.AssemblyInfo.cs
+D:\BYU\cse210-hw\WEEK-1\Prep_1\obj\Debug\net8.0\Prep_1.csproj.CoreCompileInputs.cache
+D:\BYU\cse210-hw\WEEK-1\Prep_1\obj\Debug\net8.0\Prep_1.sourcelink.json
+D:\BYU\cse210-hw\WEEK-1\Prep_1\obj\Debug\net8.0\Prep_1.dll
+D:\BYU\cse210-hw\WEEK-1\Prep_1\obj\Debug\net8.0\refint\Prep_1.dll
+D:\BYU\cse210-hw\WEEK-1\Prep_1\obj\Debug\net8.0\Prep_1.pdb
+D:\BYU\cse210-hw\WEEK-1\Prep_1\obj\Debug\net8.0\Prep_1.genruntimeconfig.cache
+D:\BYU\cse210-hw\WEEK-1\Prep_1\obj\Debug\net8.0\ref\Prep_1.dll
