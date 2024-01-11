@@ -1,0 +1,15 @@
+D:\BYU\cse210\WEEK-1\Prep_2\bin\Debug\net8.0\Prep_2.exe
+D:\BYU\cse210\WEEK-1\Prep_2\bin\Debug\net8.0\Prep_2.deps.json
+D:\BYU\cse210\WEEK-1\Prep_2\bin\Debug\net8.0\Prep_2.runtimeconfig.json
+D:\BYU\cse210\WEEK-1\Prep_2\bin\Debug\net8.0\Prep_2.dll
+D:\BYU\cse210\WEEK-1\Prep_2\bin\Debug\net8.0\Prep_2.pdb
+D:\BYU\cse210\WEEK-1\Prep_2\obj\Debug\net8.0\Prep_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\BYU\cse210\WEEK-1\Prep_2\obj\Debug\net8.0\Prep_2.AssemblyInfoInputs.cache
+D:\BYU\cse210\WEEK-1\Prep_2\obj\Debug\net8.0\Prep_2.AssemblyInfo.cs
+D:\BYU\cse210\WEEK-1\Prep_2\obj\Debug\net8.0\Prep_2.csproj.CoreCompileInputs.cache
+D:\BYU\cse210\WEEK-1\Prep_2\obj\Debug\net8.0\Prep_2.sourcelink.json
+D:\BYU\cse210\WEEK-1\Prep_2\obj\Debug\net8.0\Prep_2.dll
+D:\BYU\cse210\WEEK-1\Prep_2\obj\Debug\net8.0\refint\Prep_2.dll
+D:\BYU\cse210\WEEK-1\Prep_2\obj\Debug\net8.0\Prep_2.pdb
+D:\BYU\cse210\WEEK-1\Prep_2\obj\Debug\net8.0\Prep_2.genruntimeconfig.cache
+D:\BYU\cse210\WEEK-1\Prep_2\obj\Debug\net8.0\ref\Prep_2.dll
