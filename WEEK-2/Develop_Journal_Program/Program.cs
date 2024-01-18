@@ -26,10 +26,10 @@ class Program1
                     journal.DisplayJournal();
                     break;
                 case 3:
-                    journal.SaveJournalToFile();
+                    journal.SaveJournalToTxtFile();
                     break;
                 case 4:
-                    journal.LoadJournalFromFile();
+                    journal.LoadJournalFromTxtFile();
                     break;
                 case 5:
                     System.Environment.Exit(0);
