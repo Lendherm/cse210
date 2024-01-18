@@ -1,0 +1,15 @@
+D:\BYU\cse210\WEEK-2\Learning02\bin\Debug\net8.0\Learning02.exe
+D:\BYU\cse210\WEEK-2\Learning02\bin\Debug\net8.0\Learning02.deps.json
+D:\BYU\cse210\WEEK-2\Learning02\bin\Debug\net8.0\Learning02.runtimeconfig.json
+D:\BYU\cse210\WEEK-2\Learning02\bin\Debug\net8.0\Learning02.dll
+D:\BYU\cse210\WEEK-2\Learning02\bin\Debug\net8.0\Learning02.pdb
+D:\BYU\cse210\WEEK-2\Learning02\obj\Debug\net8.0\Learning02.GeneratedMSBuildEditorConfig.editorconfig
+D:\BYU\cse210\WEEK-2\Learning02\obj\Debug\net8.0\Learning02.AssemblyInfoInputs.cache
+D:\BYU\cse210\WEEK-2\Learning02\obj\Debug\net8.0\Learning02.AssemblyInfo.cs
+D:\BYU\cse210\WEEK-2\Learning02\obj\Debug\net8.0\Learning02.csproj.CoreCompileInputs.cache
+D:\BYU\cse210\WEEK-2\Learning02\obj\Debug\net8.0\Learning02.sourcelink.json
+D:\BYU\cse210\WEEK-2\Learning02\obj\Debug\net8.0\Learning02.dll
+D:\BYU\cse210\WEEK-2\Learning02\obj\Debug\net8.0\refint\Learning02.dll
+D:\BYU\cse210\WEEK-2\Learning02\obj\Debug\net8.0\Learning02.pdb
+D:\BYU\cse210\WEEK-2\Learning02\obj\Debug\net8.0\Learning02.genruntimeconfig.cache
+D:\BYU\cse210\WEEK-2\Learning02\obj\Debug\net8.0\ref\Learning02.dll
