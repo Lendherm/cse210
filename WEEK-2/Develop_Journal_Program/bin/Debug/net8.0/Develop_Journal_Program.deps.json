@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Develop_Journal_Program/1.0.0": {
+        "runtime": {
+          "Develop_Journal_Program.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Develop_Journal_Program/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
