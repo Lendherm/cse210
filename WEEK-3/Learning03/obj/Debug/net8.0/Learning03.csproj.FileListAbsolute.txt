@@ -1,0 +1,15 @@
+D:\BYU\cse210\WEEK-3\Learning03\bin\Debug\net8.0\Learning03.exe
+D:\BYU\cse210\WEEK-3\Learning03\bin\Debug\net8.0\Learning03.deps.json
+D:\BYU\cse210\WEEK-3\Learning03\bin\Debug\net8.0\Learning03.runtimeconfig.json
+D:\BYU\cse210\WEEK-3\Learning03\bin\Debug\net8.0\Learning03.dll
+D:\BYU\cse210\WEEK-3\Learning03\bin\Debug\net8.0\Learning03.pdb
+D:\BYU\cse210\WEEK-3\Learning03\obj\Debug\net8.0\Learning03.GeneratedMSBuildEditorConfig.editorconfig
+D:\BYU\cse210\WEEK-3\Learning03\obj\Debug\net8.0\Learning03.AssemblyInfoInputs.cache
+D:\BYU\cse210\WEEK-3\Learning03\obj\Debug\net8.0\Learning03.AssemblyInfo.cs
+D:\BYU\cse210\WEEK-3\Learning03\obj\Debug\net8.0\Learning03.csproj.CoreCompileInputs.cache
+D:\BYU\cse210\WEEK-3\Learning03\obj\Debug\net8.0\Learning03.sourcelink.json
+D:\BYU\cse210\WEEK-3\Learning03\obj\Debug\net8.0\Learning03.dll
+D:\BYU\cse210\WEEK-3\Learning03\obj\Debug\net8.0\refint\Learning03.dll
+D:\BYU\cse210\WEEK-3\Learning03\obj\Debug\net8.0\Learning03.pdb
+D:\BYU\cse210\WEEK-3\Learning03\obj\Debug\net8.0\Learning03.genruntimeconfig.cache
+D:\BYU\cse210\WEEK-3\Learning03\obj\Debug\net8.0\ref\Learning03.dll
