@@ -25,6 +25,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WEEK-3", "WEEK-3", "{43E871
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learning03", "WEEK-3\Learning03\Learning03.csproj", "{02942AFA-4BE2-4EA9-9E2D-E6568781C42B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Develop_Scripture_Memorizer", "WEEK-3\Develop_Scripture_Memorizer\Develop_Scripture_Memorizer.csproj", "{C17620C2-DB06-4446-9A87-0A9980459A29}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{02942AFA-4BE2-4EA9-9E2D-E6568781C42B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{02942AFA-4BE2-4EA9-9E2D-E6568781C42B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{02942AFA-4BE2-4EA9-9E2D-E6568781C42B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C17620C2-DB06-4446-9A87-0A9980459A29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C17620C2-DB06-4446-9A87-0A9980459A29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C17620C2-DB06-4446-9A87-0A9980459A29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C17620C2-DB06-4446-9A87-0A9980459A29}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -76,6 +82,7 @@ Global
 		{C95CF18E-494C-4768-BAF6-FD7D7956DE3A} = {EDE54979-5579-4A86-A32D-9CABAA9422AC}
 		{7C7DC7A5-A451-4EC8-984C-6B17FB51C6DC} = {EDE54979-5579-4A86-A32D-9CABAA9422AC}
 		{02942AFA-4BE2-4EA9-9E2D-E6568781C42B} = {43E871E4-8CB7-417C-9583-1B75E8DED659}
+		{C17620C2-DB06-4446-9A87-0A9980459A29} = {43E871E4-8CB7-417C-9583-1B75E8DED659}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FE02337F-C0ED-4877-9AFC-D3C952C1065F}

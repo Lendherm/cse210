@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hak8pW8DhLyS/H/LGQ6YCttb4sAGBzur2BKk1MBzYsgr8hnmLGUIq4o5ySpXT+at2pjQKXRVYKvQLIafpIwYRA==",
+  "success": true,
+  "projectFilePath": "D:\\BYU\\cse210\\WEEK-3\\Develop_Scripture_Memorizer\\Develop_Scripture_Memorizer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nathanael\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
