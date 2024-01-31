@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Prep_3")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Develop_Mindfulness_Program")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+007093b043bbdd43d509088b111790f0055af29f")]
-[assembly: System.Reflection.AssemblyProductAttribute("Prep_3")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Prep_3")]
+[assembly: System.Reflection.AssemblyProductAttribute("Develop_Mindfulness_Program")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Develop_Mindfulness_Program")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

@@ -31,6 +31,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WEEK-4", "WEEK-4", "{7CF706
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learning04", "WEEK-4\Learning04\Learning04.csproj", "{8B0FF3BA-54C4-4249-BB9F-463B23BEFE74}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Develop_Mindfulness_Program", "WEEK-4\Develop_Mindfulness_Program\Develop_Mindfulness_Program.csproj", "{8B1289A0-6A0E-4FFA-BB2A-86A6E5939391}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -77,6 +79,10 @@ Global
 		{8B0FF3BA-54C4-4249-BB9F-463B23BEFE74}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B0FF3BA-54C4-4249-BB9F-463B23BEFE74}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B0FF3BA-54C4-4249-BB9F-463B23BEFE74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B1289A0-6A0E-4FFA-BB2A-86A6E5939391}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B1289A0-6A0E-4FFA-BB2A-86A6E5939391}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B1289A0-6A0E-4FFA-BB2A-86A6E5939391}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B1289A0-6A0E-4FFA-BB2A-86A6E5939391}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -92,6 +98,7 @@ Global
 		{02942AFA-4BE2-4EA9-9E2D-E6568781C42B} = {43E871E4-8CB7-417C-9583-1B75E8DED659}
 		{C17620C2-DB06-4446-9A87-0A9980459A29} = {43E871E4-8CB7-417C-9583-1B75E8DED659}
 		{8B0FF3BA-54C4-4249-BB9F-463B23BEFE74} = {7CF70638-A107-4E3F-A383-A4BD7099158C}
+		{8B1289A0-6A0E-4FFA-BB2A-86A6E5939391} = {7CF70638-A107-4E3F-A383-A4BD7099158C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FE02337F-C0ED-4877-9AFC-D3C952C1065F}
