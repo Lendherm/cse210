@@ -9,11 +9,11 @@ public class JournalEntry
 
     public JournalEntry(string prompt, string response, string date, string location, string weather, string mood)
     {
-        Prompt = prompt;
-        Response = response;
-        Date = date;
-        Location = location;
-        Weather = weather;
-        Mood = mood;
+        Prompt = prompt!;
+        Response = response!;
+        Date = date!;
+        Location = location!;
+        Weather = weather!;
+        Mood = mood!;
     }
 }

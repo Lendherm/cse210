@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.IO;
 
 public class Journal
 {
@@ -13,10 +14,13 @@ public class Journal
         "If I had one thing I could do over today, what would it be?"
     };
 
+    // Class level field for Random
+    private Random random = new Random();
+
     // Method to write a new entry
     public void WriteNewEntry()
     {
-                string randomPrompt = prompts[new Random().Next(prompts.Count)];
+        string randomPrompt = prompts[random.Next(prompts.Count)];
         Console.WriteLine($"Prompt: {randomPrompt}");
         Console.Write("Your response: ");
         string response = Console.ReadLine();
@@ -52,48 +56,55 @@ public class Journal
         Console.Write("Enter filename to save journal as TXT: ");
         string filename = Console.ReadLine();
 
-        using (StreamWriter writer = new StreamWriter(filename))
+        try
         {
-            foreach (var entry in entries)
+            using (StreamWriter writer = new StreamWriter(filename))
             {
-                writer.WriteLine($"Date: {entry.Date}");
-                writer.WriteLine($"Prompt: {entry.Prompt}");
-                writer.WriteLine($"Response: {entry.Response}");
-                writer.WriteLine($"Location: {entry.Location}");
-                writer.WriteLine($"Weather: {entry.Weather}");
-                writer.WriteLine($"Mood: {entry.Mood}\n");
+                foreach (var entry in entries)
+                {
+                    writer.WriteLine($"Date: {entry.Date}");
+                    writer.WriteLine($"Prompt: {entry.Prompt}");
+                    writer.WriteLine($"Response: {entry.Response}");
+                    writer.WriteLine($"Location: {entry.Location}");
+                    writer.WriteLine($"Weather: {entry.Weather}");
+                    writer.WriteLine($"Mood: {entry.Mood}\n");
+                }
             }
-        }
 
-        Console.WriteLine("Journal saved to TXT file successfully!\n");
+            Console.WriteLine("Journal saved to TXT file successfully!\n");
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Error saving the journal to the file: {ex.Message}\n");
+        }
     }
     // Method to load the journal from a file
     public void LoadJournalFromTxtFile()
+{
+    Console.Write("Enter filename to load journal from TXT: ");
+    string filename = Console.ReadLine();
+
+    entries.Clear(); // Clear existing entries
+
+    using (StreamReader reader = new StreamReader(filename))
     {
-        Console.Write("Enter filename to load journal from TXT: ");
-        string filename = Console.ReadLine();
-
-        entries.Clear(); // Clear existing entries
-
-        using (StreamReader reader = new StreamReader(filename))
+        while (!reader.EndOfStream)
         {
-            while (!reader.EndOfStream)
-            {
-                string date = reader.ReadLine().Replace("Date: ", "");
-                string prompt = reader.ReadLine().Replace("Prompt: ", "");
-                string response = reader.ReadLine().Replace("Response: ", "");
-                string location = reader.ReadLine().Replace("Location: ", "");
-                string weather = reader.ReadLine().Replace("Weather: ", "");
-                string mood = reader.ReadLine().Replace("Mood: ", "");
+            string date = reader.ReadLine()?.Replace("Date: ", "") ?? "";
+            string prompt = reader.ReadLine()?.Replace("Prompt: ", "") ?? "";
+            string response = reader.ReadLine()?.Replace("Response: ", "") ?? "";
+            string location = reader.ReadLine()?.Replace("Location: ", "") ?? "";
+            string weather = reader.ReadLine()?.Replace("Weather: ", "") ?? "";
+            string mood = reader.ReadLine()?.Replace("Mood: ", "") ?? "";
 
-                entries.Add(new JournalEntry(prompt, response, date, location, weather, mood));
+            entries.Add(new JournalEntry(prompt, response, date, location, weather, mood));
 
-                // Skip the newline between entries
-                if (!reader.EndOfStream)
-                    reader.ReadLine();
-            }
+            // Skip the newline between entries
+            if (!reader.EndOfStream)
+                reader.ReadLine();
         }
-
-        Console.WriteLine("Journal loaded from TXT file successfully!\n");
     }
+
+    Console.WriteLine("Journal loaded from TXT file successfully!\n");
+}
 }

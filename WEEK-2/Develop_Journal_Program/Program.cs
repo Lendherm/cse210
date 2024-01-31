@@ -1,6 +1,6 @@
 ﻿using System;
 
-class Program1
+class Program
 {
     static void Main()
     {
@@ -15,28 +15,35 @@ class Program1
             Console.WriteLine("5. Exit");
 
             Console.Write("Enter your choice: ");
-            int choice = int.Parse(Console.ReadLine());
+            string choiceInput = Console.ReadLine();
 
-            switch (choice)
+            if (int.TryParse(choiceInput, out int choice))
             {
-                case 1:
-                    journal.WriteNewEntry();
-                    break;
-                case 2:
-                    journal.DisplayJournal();
-                    break;
-                case 3:
-                    journal.SaveJournalToTxtFile();
-                    break;
-                case 4:
-                    journal.LoadJournalFromTxtFile();
-                    break;
-                case 5:
-                    System.Environment.Exit(0);
-                    break;
-                default:
-                    Console.WriteLine("Invalid choice. Please try again.\n");
-                    break;
+                switch (choice)
+                {
+                    case 1:
+                        journal.WriteNewEntry();
+                        break;
+                    case 2:
+                        journal.DisplayJournal();
+                        break;
+                    case 3:
+                        journal.SaveJournalToTxtFile();
+                        break;
+                    case 4:
+                        journal.LoadJournalFromTxtFile();
+                        break;
+                    case 5:
+                        System.Environment.Exit(0);
+                        break;
+                    default:
+                        Console.WriteLine("Invalid choice. Please try again.\n");
+                        break;
+                }
+            }
+            else
+            {
+                Console.WriteLine("Invalid choice. Please try again.\n");
             }
         }
     }
