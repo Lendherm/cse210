@@ -1,0 +1,7 @@
+UserName: Player1
+Points: 0
+Level: 1
+Goals:
+speak,100,0,0,0,Simple
+run,200,0,0,0,Eternal
+happy,300,10,600,0,Checklist

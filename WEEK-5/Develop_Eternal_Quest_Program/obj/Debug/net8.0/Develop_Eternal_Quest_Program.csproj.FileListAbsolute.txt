@@ -1,0 +1,15 @@
+D:\BYU\cse210\WEEK-5\Develop_Eternal_Quest_Program\bin\Debug\net8.0\Develop_Eternal_Quest_Program.exe
+D:\BYU\cse210\WEEK-5\Develop_Eternal_Quest_Program\bin\Debug\net8.0\Develop_Eternal_Quest_Program.deps.json
+D:\BYU\cse210\WEEK-5\Develop_Eternal_Quest_Program\bin\Debug\net8.0\Develop_Eternal_Quest_Program.runtimeconfig.json
+D:\BYU\cse210\WEEK-5\Develop_Eternal_Quest_Program\bin\Debug\net8.0\Develop_Eternal_Quest_Program.dll
+D:\BYU\cse210\WEEK-5\Develop_Eternal_Quest_Program\bin\Debug\net8.0\Develop_Eternal_Quest_Program.pdb
+D:\BYU\cse210\WEEK-5\Develop_Eternal_Quest_Program\obj\Debug\net8.0\Develop_Eternal_Quest_Program.GeneratedMSBuildEditorConfig.editorconfig
+D:\BYU\cse210\WEEK-5\Develop_Eternal_Quest_Program\obj\Debug\net8.0\Develop_Eternal_Quest_Program.AssemblyInfoInputs.cache
+D:\BYU\cse210\WEEK-5\Develop_Eternal_Quest_Program\obj\Debug\net8.0\Develop_Eternal_Quest_Program.AssemblyInfo.cs
+D:\BYU\cse210\WEEK-5\Develop_Eternal_Quest_Program\obj\Debug\net8.0\Develop_Eternal_Quest_Program.csproj.CoreCompileInputs.cache
+D:\BYU\cse210\WEEK-5\Develop_Eternal_Quest_Program\obj\Debug\net8.0\Develop_Eternal_Quest_Program.sourcelink.json
+D:\BYU\cse210\WEEK-5\Develop_Eternal_Quest_Program\obj\Debug\net8.0\Develop_Eternal_Quest_Program.dll
+D:\BYU\cse210\WEEK-5\Develop_Eternal_Quest_Program\obj\Debug\net8.0\refint\Develop_Eternal_Quest_Program.dll
+D:\BYU\cse210\WEEK-5\Develop_Eternal_Quest_Program\obj\Debug\net8.0\Develop_Eternal_Quest_Program.pdb
+D:\BYU\cse210\WEEK-5\Develop_Eternal_Quest_Program\obj\Debug\net8.0\Develop_Eternal_Quest_Program.genruntimeconfig.cache
+D:\BYU\cse210\WEEK-5\Develop_Eternal_Quest_Program\obj\Debug\net8.0\ref\Develop_Eternal_Quest_Program.dll

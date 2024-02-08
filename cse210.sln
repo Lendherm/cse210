@@ -37,6 +37,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WEEK-5", "WEEK-5", "{5060F3
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learning05", "WEEK-5\Learning05\Learning05.csproj", "{C5193011-4F9B-4796-93EA-15E2739C5F5E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Develop_Eternal_Quest_Program", "WEEK-5\Develop_Eternal_Quest_Program\Develop_Eternal_Quest_Program.csproj", "{46581BA3-4CD6-45C0-99E1-04A51EE78DE9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -91,6 +93,10 @@ Global
 		{C5193011-4F9B-4796-93EA-15E2739C5F5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5193011-4F9B-4796-93EA-15E2739C5F5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5193011-4F9B-4796-93EA-15E2739C5F5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46581BA3-4CD6-45C0-99E1-04A51EE78DE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46581BA3-4CD6-45C0-99E1-04A51EE78DE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46581BA3-4CD6-45C0-99E1-04A51EE78DE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46581BA3-4CD6-45C0-99E1-04A51EE78DE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -108,6 +114,7 @@ Global
 		{8B0FF3BA-54C4-4249-BB9F-463B23BEFE74} = {7CF70638-A107-4E3F-A383-A4BD7099158C}
 		{8B1289A0-6A0E-4FFA-BB2A-86A6E5939391} = {7CF70638-A107-4E3F-A383-A4BD7099158C}
 		{C5193011-4F9B-4796-93EA-15E2739C5F5E} = {5060F39F-A164-427D-AAFD-4246B0FD062D}
+		{46581BA3-4CD6-45C0-99E1-04A51EE78DE9} = {5060F39F-A164-427D-AAFD-4246B0FD062D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FE02337F-C0ED-4877-9AFC-D3C952C1065F}
