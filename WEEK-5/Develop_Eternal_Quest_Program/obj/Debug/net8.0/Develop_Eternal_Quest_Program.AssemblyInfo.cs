@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Develop_Eternal_Quest_Program")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18b9e5aec9fb07240dda889a03e74167108103b6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85e0409878110609906010516eeb9ad1ae1c7255")]
 [assembly: System.Reflection.AssemblyProductAttribute("Develop_Eternal_Quest_Program")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Develop_Eternal_Quest_Program")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
