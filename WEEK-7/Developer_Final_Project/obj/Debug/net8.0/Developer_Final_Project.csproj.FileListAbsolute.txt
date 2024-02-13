@@ -1,0 +1,15 @@
+D:\BYU\cse210\WEEK-7\Developer_Final_Project\bin\Debug\net8.0\Developer_Final_Project.exe
+D:\BYU\cse210\WEEK-7\Developer_Final_Project\bin\Debug\net8.0\Developer_Final_Project.deps.json
+D:\BYU\cse210\WEEK-7\Developer_Final_Project\bin\Debug\net8.0\Developer_Final_Project.runtimeconfig.json
+D:\BYU\cse210\WEEK-7\Developer_Final_Project\bin\Debug\net8.0\Developer_Final_Project.dll
+D:\BYU\cse210\WEEK-7\Developer_Final_Project\bin\Debug\net8.0\Developer_Final_Project.pdb
+D:\BYU\cse210\WEEK-7\Developer_Final_Project\obj\Debug\net8.0\Developer_Final_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\BYU\cse210\WEEK-7\Developer_Final_Project\obj\Debug\net8.0\Developer_Final_Project.AssemblyInfoInputs.cache
+D:\BYU\cse210\WEEK-7\Developer_Final_Project\obj\Debug\net8.0\Developer_Final_Project.AssemblyInfo.cs
+D:\BYU\cse210\WEEK-7\Developer_Final_Project\obj\Debug\net8.0\Developer_Final_Project.csproj.CoreCompileInputs.cache
+D:\BYU\cse210\WEEK-7\Developer_Final_Project\obj\Debug\net8.0\Developer_Final_Project.sourcelink.json
+D:\BYU\cse210\WEEK-7\Developer_Final_Project\obj\Debug\net8.0\Developer_Final_Project.dll
+D:\BYU\cse210\WEEK-7\Developer_Final_Project\obj\Debug\net8.0\refint\Developer_Final_Project.dll
+D:\BYU\cse210\WEEK-7\Developer_Final_Project\obj\Debug\net8.0\Developer_Final_Project.pdb
+D:\BYU\cse210\WEEK-7\Developer_Final_Project\obj\Debug\net8.0\Developer_Final_Project.genruntimeconfig.cache
+D:\BYU\cse210\WEEK-7\Developer_Final_Project\obj\Debug\net8.0\ref\Developer_Final_Project.dll
