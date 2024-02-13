@@ -1,0 +1,15 @@
+D:\BYU\cse210\WEEK-6\Prove_Developer_Project_Milestone\bin\Debug\net8.0\Prove_Developer_Project_Milestone.exe
+D:\BYU\cse210\WEEK-6\Prove_Developer_Project_Milestone\bin\Debug\net8.0\Prove_Developer_Project_Milestone.deps.json
+D:\BYU\cse210\WEEK-6\Prove_Developer_Project_Milestone\bin\Debug\net8.0\Prove_Developer_Project_Milestone.runtimeconfig.json
+D:\BYU\cse210\WEEK-6\Prove_Developer_Project_Milestone\bin\Debug\net8.0\Prove_Developer_Project_Milestone.dll
+D:\BYU\cse210\WEEK-6\Prove_Developer_Project_Milestone\bin\Debug\net8.0\Prove_Developer_Project_Milestone.pdb
+D:\BYU\cse210\WEEK-6\Prove_Developer_Project_Milestone\obj\Debug\net8.0\Prove_Developer_Project_Milestone.GeneratedMSBuildEditorConfig.editorconfig
+D:\BYU\cse210\WEEK-6\Prove_Developer_Project_Milestone\obj\Debug\net8.0\Prove_Developer_Project_Milestone.AssemblyInfoInputs.cache
+D:\BYU\cse210\WEEK-6\Prove_Developer_Project_Milestone\obj\Debug\net8.0\Prove_Developer_Project_Milestone.AssemblyInfo.cs
+D:\BYU\cse210\WEEK-6\Prove_Developer_Project_Milestone\obj\Debug\net8.0\Prove_Developer_Project_Milestone.csproj.CoreCompileInputs.cache
+D:\BYU\cse210\WEEK-6\Prove_Developer_Project_Milestone\obj\Debug\net8.0\Prove_Developer_Project_Milestone.sourcelink.json
+D:\BYU\cse210\WEEK-6\Prove_Developer_Project_Milestone\obj\Debug\net8.0\Prove_Developer_Project_Milestone.dll
+D:\BYU\cse210\WEEK-6\Prove_Developer_Project_Milestone\obj\Debug\net8.0\refint\Prove_Developer_Project_Milestone.dll
+D:\BYU\cse210\WEEK-6\Prove_Developer_Project_Milestone\obj\Debug\net8.0\Prove_Developer_Project_Milestone.pdb
+D:\BYU\cse210\WEEK-6\Prove_Developer_Project_Milestone\obj\Debug\net8.0\Prove_Developer_Project_Milestone.genruntimeconfig.cache
+D:\BYU\cse210\WEEK-6\Prove_Developer_Project_Milestone\obj\Debug\net8.0\ref\Prove_Developer_Project_Milestone.dll

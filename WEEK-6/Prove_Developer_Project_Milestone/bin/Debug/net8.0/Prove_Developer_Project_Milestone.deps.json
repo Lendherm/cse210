@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Prove_Developer_Project_Milestone/1.0.0": {
+        "runtime": {
+          "Prove_Developer_Project_Milestone.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Prove_Developer_Project_Milestone/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

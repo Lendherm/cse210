@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Prove_Developer_Project_Milestone")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8bccd1c2fa0f1d67d19c77896ff5e8304bf30efc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a2888a94d02da791ee741b1fb82e851fcf62497")]
 [assembly: System.Reflection.AssemblyProductAttribute("Prove_Developer_Project_Milestone")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Prove_Developer_Project_Milestone")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
